@@ -56,7 +56,7 @@
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/codesrishav/codesrishav/main/Food.png" width="100%" style="border-radius:12px;"/>
 
 </td>
 </tr>
@@ -82,7 +82,7 @@
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/codesrishav/codesrishav/main/Weather.png" width="100%" style="border-radius:12px;"/>
 
 </td>
 </tr>
