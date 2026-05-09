@@ -7,7 +7,7 @@
 <!-- 🔥 TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;AI-Powered+MERN+Applications;Clean+Code+%7C+Modern+UI;Full+Stack+Developer" />
 </p>
 
 ---
@@ -19,7 +19,8 @@
 <td width="50%">
 
 * 💻 Full Stack Developer (MERN)
-* 🚀 Focused on scalable applications
+* 🤖 Building AI-powered applications
+* 🚀 Focused on scalable web apps
 * 🧠 Learning System Design
 * 🎯 Clean UI + Efficient Backend
 * 🏆 NPTEL Top 5% | SIH 2024
@@ -36,7 +37,35 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 SkillSync – AI Job Skill Gap Analyzer
+
+* 🧠 AI-powered Resume Analysis
+* 📊 Skill Gap Detection System
+* 🧭 Personalized Learning Roadmaps
+* 🔐 JWT Authentication & History Tracking
+* ⚡ Gemini API Integration
+* 🎨 Responsive MERN Dashboard UI
+
+👉 [Live Demo](https://your-live-link.vercel.app/)  
+👉 [GitHub Repo](https://github.com/codesrishav/SkillSync)
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/codesrishav/codesrishav/main/landing.png" width="100%" style="border-radius:12px;"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
@@ -49,7 +78,7 @@
 * ⚡ REST APIs
 * 🎨 Tailwind UI
 
-👉 [Live Demo](https://food-express-gilt.vercel.app/)
+👉 [Live Demo](https://food-express-gilt.vercel.app/)  
 👉 [GitHub Repo](https://github.com/codesrishav/FoodExpress)
 
 </td>
@@ -75,7 +104,7 @@
 * 📱 Fully Responsive Design
 * 🎨 Clean UI with Tailwind
 
-👉 [Live Demo](https://weather-forecast-eight-gules.vercel.app/)
+👉 [Live Demo](https://weather-forecast-eight-gules.vercel.app/)  
 👉 [GitHub Repo](https://github.com/codesrishav/WeatherForecast)
 
 </td>
@@ -93,7 +122,21 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,java,cpp,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,java,cpp,git,github,vercel,vscode" />
+</p>
+
+---
+
+## 🤖 AI & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20API-AI%20Integration-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-AI%20Coding-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude%20AI-Workflow-7C3AED?style=for-the-badge" />
 </p>
 
 ---
@@ -121,9 +164,11 @@
   <a href="https://codesrishav.me">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge" />
   </a>
+
   <a href="https://linkedin.com/in/rishavkumar5793">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:kumarrishav899@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail" />
   </a>
@@ -140,5 +185,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐  
+  ⭐ Thanks for visiting my profile ⭐
 </p>
